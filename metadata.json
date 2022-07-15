@@ -1,0 +1,37 @@
+{
+  "name": "Nobunaga #4522",
+  "symbol": "NOBUNAGA",
+  "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
+  "seller_fee_basis_points": 2000,
+  "image": "https://nftstorage.link/ipfs/QmZYX2GFL44kwHbf66zGNC8TPxD8SUFFbBwDFLxJvWwmJo/4849.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bamboo"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Colored Karuta"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Ronin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Hair"
+    },
+    {
+      "trait_type": "Sword",
+      "value": "Katana"
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+}
